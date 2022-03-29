@@ -1,5 +1,12 @@
 
 # 100 Days Of Code - Log
+### Day 0: March 28th, 2022
+
+**Today's Progres**: Created the initial Java MVC application
+
+**Thoughts:** Tried to create the repo on github and then create the project in IntelliJ, but could not figure out how to get IntelliJ to treat it as a Java project.  Ended up creating the project in IntelliJ and then sharing it to github from withing IntelliJ
+
+**Link to Work**: [Ticket2Specials App](https://github.com/ErnieWhite/Ticket2Specials)
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
